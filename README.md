@@ -18,6 +18,7 @@ In your pull request description, you should include:
 
 ## OpenWebText (subsample) validation loss leaderboard
 
-| Name                  | Validation Loss | Link |
-|:----------------------|----------------:|-----:|
-| naive baseline        |            5.00 |      |
+| Name                  | Validation Loss | Link                                         |
+|:----------------------|----------------:|---------------------------------------------:|
+| chengshu              |            3.89 | https://api.wandb.ai/links/chengshu/e78x7qnz |
+| naive baseline        |            5.00 |                                              |
