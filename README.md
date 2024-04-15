@@ -22,4 +22,5 @@ In your pull request description, you should include:
 |:----------------------|----------------:|---------------------------------------------:|
 | rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
 | chengshu              |            3.89 | https://api.wandb.ai/links/chengshu/e78x7qnz |
+| sundararajan          |            3.89 | https://api.wandb.ai/links/sundararajan-team/kvqmagh7 |
 | naive baseline        |            5.00 |                                              |
