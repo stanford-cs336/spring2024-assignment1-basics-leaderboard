@@ -20,5 +20,6 @@ In your pull request description, you should include:
 
 | Name                  | Validation Loss | Link                                         |
 |:----------------------|----------------:|---------------------------------------------:|
+| rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
 | chengshu              |            3.89 | https://api.wandb.ai/links/chengshu/e78x7qnz |
 | naive baseline        |            5.00 |                                              |
