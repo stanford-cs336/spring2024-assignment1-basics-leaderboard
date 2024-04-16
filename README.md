@@ -20,7 +20,7 @@ In your pull request description, you should include:
 
 | Name                  | Validation Loss | Link                                         |
 |:----------------------|----------------:|---------------------------------------------:|
-| yann                  |            3.18 |https://wandb.ai/hashimoto-group/cs336_assignment1/reports/train-loss-24-04-16-15-48-29---Vmlldzo3NTc0MTQ5|
+| yann                  |            3.18 |https://api.wandb.ai/links/hashimoto-group/5t1e2wjd|
 | marcel                |            3.22 |https://api.wandb.ai/links/marcelroed/q38fyr6r|
 | rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
 | chengshu              |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
