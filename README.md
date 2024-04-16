@@ -21,6 +21,7 @@ In your pull request description, you should include:
 | Name                  | Validation Loss | Link                                         |
 |:----------------------|----------------:|---------------------------------------------:|
 | rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
+| Jason Wang            |            3.80 | https://api.wandb.ai/links/blahblahhhj/eh5i25dp |
 | wanqiao               |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
 | chengshu              |            3.89 | https://api.wandb.ai/links/chengshu/e78x7qnz |
 | sundararajan          |            3.89 | https://api.wandb.ai/links/sundararajan-team/kvqmagh7 |
