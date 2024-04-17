@@ -22,12 +22,12 @@ In your pull request description, you should include:
 |:----------------------|----------------:|---------------------------------------------:|
 | yann                  |            3.18 |https://api.wandb.ai/links/hashimoto-group/5t1e2wjd|
 | marcel                |            3.22 |https://api.wandb.ai/links/marcelroed/q38fyr6r|
+| sundararajan          |            3.59 | https://api.wandb.ai/links/sundararajan-team/2w0t40kv |
 | rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
 | chengshu              |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
 | Jason Wang            |            3.80 | https://api.wandb.ai/links/blahblahhhj/eh5i25dp |
 | Matty Reed            |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
 | wanqiao               |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
-| sundararajan          |            3.89 | https://api.wandb.ai/links/sundararajan-team/kvqmagh7 |
 | Zitong Yang           |            3.91 | https://api.wandb.ai/links/zitongyang/j0fzs8tn |
 | sarah                 |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
 | naive baseline        |            5.00 |                                              |
