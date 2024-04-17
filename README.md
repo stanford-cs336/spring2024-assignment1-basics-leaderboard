@@ -18,19 +18,20 @@ In your pull request description, you should include:
 
 ## OpenWebText (subsample) validation loss leaderboard
 
-| Name                  | Validation Loss | Link                                         |
-|:----------------------|----------------:|---------------------------------------------:|
-| marcel                |            3.12 |https://api.wandb.ai/links/marcelroed/j5mgt64n|
-| yann                  |            3.18 |https://api.wandb.ai/links/hashimoto-group/5t1e2wjd|
-| marcel                |            3.22 |https://api.wandb.ai/links/marcelroed/q38fyr6r|
-| sundararajan          |            3.55 | https://api.wandb.ai/links/sundararajan-team/hfzoaoof |
-| Jason Wang            |            3.56 | https://api.wandb.ai/links/blahblahhhj/wzewv5jr |
-| rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
-| chengshu              |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
-| Matty Reed            |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
-| wanqiao               |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
-| Zitong Yang           |            3.91 | https://api.wandb.ai/links/zitongyang/j0fzs8tn |
-| sarah                 |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
-| matt                  |            4.13 | https://api.wandb.ai/links/myorg1/efyphohq   |
-| Thomas Chen           |            4.89 | https://api.wandb.ai/links/aqlab/8gx0m7in    |
-| naive baseline        |            5.00 |                                              |
+| Name           | Validation Loss | Link                                         |
+|:---------------|----------------:|---------------------------------------------:|
+| marcel         |            3.12 |https://api.wandb.ai/links/marcelroed/j5mgt64n|
+| yann           |            3.18 |https://api.wandb.ai/links/hashimoto-group/5t1e2wjd|
+| marcel         |            3.22 |https://api.wandb.ai/links/marcelroed/q38fyr6r|
+| sundararajan   |            3.55 | https://api.wandb.ai/links/sundararajan-team/hfzoaoof |
+| Jason Wang     |            3.56 | https://api.wandb.ai/links/blahblahhhj/wzewv5jr |
+| rohin          |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
+| chengshu       |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
+| Matty Reed     |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
+| wanqiao        |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
+| Judy Shen      |            3.87 | https://api.wandb.ai/links/jhshen/c7t0mvgk   |
+| Zitong Yang    |            3.91 | https://api.wandb.ai/links/zitongyang/j0fzs8tn |
+| sarah          |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
+| matt           |            4.13 | https://api.wandb.ai/links/myorg1/efyphohq   |
+| Thomas Chen    |            4.89 | https://api.wandb.ai/links/aqlab/8gx0m7in    |
+| naive baseline |            5.00 |                                              |
