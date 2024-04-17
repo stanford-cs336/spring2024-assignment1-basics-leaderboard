@@ -23,8 +23,8 @@ In your pull request description, you should include:
 | marcel                |            3.12 |https://api.wandb.ai/links/marcelroed/j5mgt64n|
 | yann                  |            3.18 |https://api.wandb.ai/links/hashimoto-group/5t1e2wjd|
 | marcel                |            3.22 |https://api.wandb.ai/links/marcelroed/q38fyr6r|
+| sundararajan          |            3.55 | https://api.wandb.ai/links/sundararajan-team/hfzoaoof |
 | Jason Wang            |            3.56 | https://api.wandb.ai/links/blahblahhhj/wzewv5jr |
-| sundararajan          |            3.59 | https://api.wandb.ai/links/sundararajan-team/2w0t40kv |
 | rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
 | chengshu              |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
 | Matty Reed            |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
