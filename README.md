@@ -20,14 +20,16 @@ In your pull request description, you should include:
 
 | Name                  | Validation Loss | Link                                         |
 |:----------------------|----------------:|---------------------------------------------:|
+| marcel                |            3.12 |https://api.wandb.ai/links/marcelroed/j5mgt64n|
 | yann                  |            3.18 |https://api.wandb.ai/links/hashimoto-group/5t1e2wjd|
 | marcel                |            3.22 |https://api.wandb.ai/links/marcelroed/q38fyr6r|
 | Jason Wang            |            3.56 | https://api.wandb.ai/links/blahblahhhj/wzewv5jr |
+| sundararajan          |            3.59 | https://api.wandb.ai/links/sundararajan-team/2w0t40kv |
 | rohin                 |            3.60 |https://api.wandb.ai/links/rohinmanvi/0xenuz30|
 | chengshu              |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
 | Matty Reed            |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
 | wanqiao               |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
-| sundararajan          |            3.89 | https://api.wandb.ai/links/sundararajan-team/kvqmagh7 |
 | Zitong Yang           |            3.91 | https://api.wandb.ai/links/zitongyang/j0fzs8tn |
 | sarah                 |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
+| matt                  |            4.13 | https://api.wandb.ai/links/myorg1/efyphohq   |
 | naive baseline        |            5.00 |                                              |
