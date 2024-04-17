@@ -32,4 +32,5 @@ In your pull request description, you should include:
 | Zitong Yang           |            3.91 | https://api.wandb.ai/links/zitongyang/j0fzs8tn |
 | sarah                 |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
 | matt                  |            4.13 | https://api.wandb.ai/links/myorg1/efyphohq   |
+| Thomas Chen           |            4.89 | https://api.wandb.ai/links/aqlab/8gx0m7in    |
 | naive baseline        |            5.00 |                                              |
