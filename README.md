@@ -30,6 +30,7 @@ In your pull request description, you should include:
 | Matty Reed     |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
 | wanqiao        |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
 | Judy Shen      |            3.87 | https://api.wandb.ai/links/jhshen/c7t0mvgk   |
+| Shijia Yang    |            3.87 | https://api.wandb.ai/links/shijiayang/13ckenoc   |
 | Zitong Yang    |            3.91 | https://api.wandb.ai/links/zitongyang/j0fzs8tn |
 | Michael Ryan   |            3.91 | https://api.wandb.ai/links/michael-nlp/9hf4l35j |
 | sarah          |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
