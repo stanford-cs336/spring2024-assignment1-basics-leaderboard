@@ -40,6 +40,7 @@ In your pull request description, you should include:
 | Michael Ryan   |            3.91 | https://api.wandb.ai/links/michael-nlp/9hf4l35j |
 | sarah          |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
 | matt           |            4.13 | https://api.wandb.ai/links/myorg1/efyphohq   |
+| Sudharsan      |            4.15 | https://api.wandb.ai/links/alephentine/phqvlcwh  |
 | Lucas          |            4.35 | [image](./images/lucas_val_loss.png)|
 | Thomas Chen    |            4.89 | https://api.wandb.ai/links/aqlab/8gx0m7in    |
 | naive baseline |            5.00 |                                              |
