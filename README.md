@@ -28,6 +28,7 @@ In your pull request description, you should include:
 | rishabh        |            3.64 | https://api.wandb.ai/links/rishabh-ranjan/amq3n70d |
 | chengshu       |            3.69 | https://api.wandb.ai/links/chengshu/q9dgud3z |
 | Matty Reed     |            3.80 | [image](./images/Matt_Reed_Validation_Loss.png) |
+| usman          |            3.86 | [image] (./images/usman_val_loss.jpeg)          |
 | wanqiao        |            3.87 | https://api.wandb.ai/links/wanqiao/thuus40n  |
 | Judy Shen      |            3.87 | https://api.wandb.ai/links/jhshen/c7t0mvgk   |
 | Shijia Yang    |            3.87 | https://api.wandb.ai/links/shijiayang/13ckenoc   |
