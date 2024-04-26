@@ -41,6 +41,7 @@ In your pull request description, you should include:
 | sarah          |            3.98 | https://api.wandb.ai/links/sachen/n5faddjv   |
 | matt           |            4.13 | https://api.wandb.ai/links/myorg1/efyphohq   |
 | Sudharsan      |            4.15 | https://api.wandb.ai/links/alephentine/phqvlcwh  |
+| Mason          |            4.30 | [image](./images/mason_validation_loss_plot.png)  |
 | Lucas          |            4.35 | [image](./images/lucas_val_loss.png)|
 | Thomas Chen    |            4.89 | https://api.wandb.ai/links/aqlab/8gx0m7in    |
 | naive baseline |            5.00 |                                              |
